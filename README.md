@@ -1,36 +1,31 @@
-# Hi, I'm Priya 👋  💻
-
-## Priya  Kumari Gupta
-#### A Curious  Full Stack Web Developer 
+<h1 align="center"> Hi, I'm Priya <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="3%"/> </h1> 
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=Priya31Gupta.Priya31Gupta"> <img src="https://img.shields.io/github/followers/Priya31Gupta?label=Follow&style=social)](https://github.com/Priya31Gupta"></p>
 
 
-
-A  Curious Full Stack Web Developer trained in MERN stack and DSA.Passionate about building quality user-centric products using MERN stack. Committed to achieving excellence in her work. Excited about kickstarting a career in the software industry.
-
-## Tech
-
-Tech Skills I can work with 
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" width="30" height="30" /> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="30" height="30" />  &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30" height="30" /> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="30" height="30" /> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30" height="30" /> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="30" height="30" /> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" width="30" height="30" /> &nbsp;&nbsp;&nbsp;&nbsp;
-
- ## YOU can reach out to me  :
- 
-<p align="left">
- <a href="mailto:priyakumarikumarigupta790@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Priya31g" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/priya-kumari-gupta/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384072.png" alt="Priya31g" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/Priya31g" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145812.png" alt="@Priya31g" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Priya31g" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/919/919847.png" alt="Priya31g" height="30" width="30" /></a>
-
+- 🌱 A Curious  Full Stack Web Developer
+- I’m currently working on ✨[Café Serendipity](https://github.com/Priya31Gupta/cafe-serendipity)
+- 🌟 I am a web developer
+- 👯 I’m looking to collaborate on whatever you like...let's just start working
+- 💻 Find me on [https://priya-gupta-portfolio-priyakumarigupta.vercel.app/](https://priya-gupta-portfolio-priyakumarigupta.vercel.app/)
+- 📫 How to reach me: Duh, Just drop a text<br>
+<p>
+  <a href="https://www.linkedin.com/in/priya-kumari-gupta/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="socials"/></a> 
+ <a href="mailto:priyakumarigupta790@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/priyakumarigupta790@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="socials"/></a>
+<a href="https://twitter.com/Priya31g" target="blank"><img align="center" src="https://img.shields.io/badge/Priya31g-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="socials"/></a>
+ <a href="https://github.com/Priya31Gupta" target="blank"><img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="socials"/></a>
+ <a href="https://priya-gupta-portfolio.vercel.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
 </p>
 
-### You can find me on : [priya-gupta-portfolio-priyakumarigupta](https://priya-gupta-portfolio-priyakumarigupta.vercel.app/) 
+## Tech Skills I can work with 
 
-### My Github Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=Priya31Gupta&show_icons=true&locale=en)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priya31Gupta)](https://git.io/streak-stats)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) &nbsp;&nbsp;&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp;&nbsp;&nbsp;&nbsp;
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp;
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp;
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Priya31Gupta&show_icons=true&locale=en&title_color=5271ff&text_color=000000&icon_color=5271ff&border_color=ffffff&bg_color=fffff)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priya31Gupta&background=ffffff&ring=5271ff&fire=5271ff&currStreakNum=5271ff&sideNums=5271ff&currStreakLabel=000000&sideLabels=000000&dates=000000)](https://git.io/streak-stats)
