@@ -29,3 +29,5 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Priya31Gupta&show_icons=true&locale=en&title_color=5271ff&text_color=000000&icon_color=5271ff&border_color=ffffff&bg_color=fffff)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priya31Gupta&background=ffffff&ring=5271ff&fire=5271ff&currStreakNum=5271ff&sideNums=5271ff&currStreakLabel=000000&sideLabels=000000&dates=000000)](https://git.io/streak-stats)
+[![Github Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=Priya31Gupta)](https://git.io/streak-stats)
+
