@@ -18,16 +18,15 @@
 
 ## Tech Skills I can work with 
 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp;
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp;
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) &nbsp;&nbsp;&nbsp;&nbsp;
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp;&nbsp;&nbsp;&nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp;
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp;
 
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=Priya31Gupta&show_icons=true&locale=en&title_color=5271ff&text_color=000000&icon_color=5271ff&border_color=ffffff&bg_color=fffff)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priya31Gupta&background=ffffff&ring=5271ff&fire=5271ff&currStreakNum=5271ff&sideNums=5271ff&currStreakLabel=000000&sideLabels=000000&dates=000000)](https://git.io/streak-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Priya31Gupta&show_icons=true&locale=en&title_color=5271ff&text_color=000000&icon_color=5271ff&bg_color=fffff)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priya31Gupta&background=ffffff&ring=5271ff&fire=5271ff&currStreakNum=5271ff&sideNums=5271ff&currStreakLabel=000000&sideLabels=000000&dates=000000)](https://git.io/streak-stats)<br/>
 [![Github Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=Priya31Gupta)](https://git.io/streak-stats)
 
