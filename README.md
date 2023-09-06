@@ -11,11 +11,11 @@
   
 ## 🌐 Socials:
 <p>
-  <a href="https://www.linkedin.com/in/priya-kumari-gupta/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="socials"/></a> 
- <a href="mailto:priyakumarigupta790@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/priyakumarigupta790@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="socials"/></a>
-<a href="https://twitter.com/Priya31g" target="blank"><img align="center" src="https://img.shields.io/badge/Priya31g-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="socials"/></a>
- <a href="https://github.com/Priya31Gupta" target="blank"><img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="socials"/></a>
- <a href="https://priya-gupta-portfolio.vercel.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
+  <a href="https://www.linkedin.com/in/priya-kumari-gupta/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="socials"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="mailto:priyakumarigupta790@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/priyakumarigupta790@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="socials"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/Priya31g" target="blank"><img align="center" src="https://img.shields.io/badge/Priya31g-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="socials"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://github.com/Priya31Gupta" target="blank"><img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="socials"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://priya-gupta-portfolio.vercel.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 # 💻 Tech Stack:
