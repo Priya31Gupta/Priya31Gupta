@@ -6,7 +6,7 @@
 - I’m currently working on ✨[Coffee Shop](https://github.com/Priya31Gupta/coffee-shop-fe)
 - 🌟 I am a **Full Stack Web Developer**
 - 👯 I’m looking to collaborate on whatever you like...let's just start working
-- 💻 **Find me on:** [https://priya-gupta-portfolio-priyakumarigupta.vercel.app/](https://priya-gupta-portfolio-priyakumarigupta.vercel.app/)
+- 💻 **Find me on:** [https://priya-gupta-portfolio.vercel.app/](https://priya-gupta-portfolio.vercel.app/)
 - ⚡ **Fun fact:** I love creating interesting websites.
   
 ## 🌐 Socials:
